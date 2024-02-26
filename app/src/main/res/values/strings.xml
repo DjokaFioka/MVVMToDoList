@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVVM ToDo</string>
+    <string name="search">Search</string>
+    <string name="undo_capital">UNDO</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="new_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="name_empty_error">Name cannot be empty</string>
+    <string name="task_added_msg">Task added</string>
+    <string name="task_update_msg">Task updated</string>
+    <string name="dlg_delete_confirmation_title">Delete confirmation</string>
+    <string name="dlg_delete_all_completed_message">Are you sure you want to delete all completed tasks?</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "MVVM ToDo List"
+include ':app'
